@@ -2,3 +2,4 @@
 .idea/
 rag_pdf/db
 __pycache__/
+venv/
